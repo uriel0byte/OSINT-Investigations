@@ -1,6 +1,9 @@
 # CONFIDENTIAL – OSINT INVESTIGATION REPORT
+
 **Date of Report:** 3/30/2026 (Updated May 2026)
+
 **Prepared By:** uriel
+
 **Subject:** [Target Alpha]
 
 ## 1. Executive Summary
