@@ -30,6 +30,16 @@ The investigation followed a structured intelligence lifecycle (Direction, Colle
 * WhatsMyName
 * Fazeel Azeez Channel Finder
 * Lullar
+* Google Dorking
+* Sherlock
+* Blackbird
+* OPSIS OSINT
+* Behind the Email
+* osinthandbook
+* IntelBase
+* IntelX
+* OSINT.intelligenceonchain
+* OSINT-BIBLE
 
 ## **DISCLAIMER** 
 This is a fictional OSINT training exercise. "Valeria R. Owens" is an entirely fabricated persona generated using a fake identity tool. No real individual was researched, tracked, or identified. All findings and data points are invented to simulate realistic investigation conditions. This report does not represent or target any living person.
